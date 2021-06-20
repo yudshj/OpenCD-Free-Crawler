@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+open.cd	FALSE	/	FALSE	2147483648	c_secure_login	xxx
+open.cd	FALSE	/	FALSE	2147483648	c_secure_uid	xxx
+open.cd	FALSE	/	FALSE	2147483648	c_secure_pass	xxx
+open.cd	FALSE	/	FALSE	2147483648	c_secure_ssl	xxx
+open.cd	FALSE	/	FALSE	2147483648	c_secure_tracker_ssl	xxx
+open.cd	FALSE	/	FALSE	2147483647	c_lang_folder	xxx
