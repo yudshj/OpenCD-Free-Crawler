@@ -3,4 +3,6 @@
 .idea
 
 config.ini
+config.sample.ini
 open.cd_cookies.txt
+open.cd_cookies.sample.txt
